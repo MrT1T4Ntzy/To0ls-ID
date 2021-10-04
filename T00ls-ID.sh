@@ -4,16 +4,13 @@ figlet Tools | lolcat
 figlet Termux | lolcat
 date | lolcat
 
-echo -e"$biru"  
 "======================================"
 "Author : Mr.T1T4N
 "Team : Mafia Teknologi"
 "======================================"
-echo -e"$merah"
 echo "{!} SILAKAN PILIH SEMUA TOOLSNYA DI BAWAH INI :)"
 echo "GUNAKAN SECUKUPNYA"
    sleep 2
-   echo -e"$hitam"
 "{1} Hack CCTV [MAIN]"
 "{2} Teks Ganas [ON]"
 "{3} JUZ AMMA [ON]"

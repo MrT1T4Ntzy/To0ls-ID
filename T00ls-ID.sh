@@ -3,19 +3,19 @@
 figlet Tools | lolcat
 figlet Termux | lolcat
 date | lolcat
-
-"======================================"
-"Author : Mr.T1T4N
-"Team : Mafia Teknologi"
-"======================================"
+echo
+echo "======================================"
+echo "Author : Mr.T1T4N
+echo "Team : Mafia Teknologi"
+echo "======================================"
 echo "{!} SILAKAN PILIH SEMUA TOOLSNYA DI BAWAH INI :)"
 echo "GUNAKAN SECUKUPNYA"
    sleep 2
-"{1} Hack CCTV [MAIN]"
-"{2} Teks Ganas [ON]"
-"{3} JUZ AMMA [ON]"
-"{4} Buat DEFACE [ON]"
-"{99} KELUAR !"
+echo "{1} Hack CCTV [MAIN]"
+echo "{2} Teks Ganas [ON]"
+echo "{3} JUZ AMMA [ON]"
+echo "{4} Buat DEFACE [ON]"
+echo "{99} KELUAR !"
 sleep 1
 read -p "Cepat NGAB Pilih: " pilih
 # data menu 1

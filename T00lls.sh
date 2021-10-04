@@ -3,7 +3,7 @@
 figlet Tools | lolcat
 figlet Termux | lolcat
 date | lolcat
-echo -e"$merah"
+echo "$merah"
 echo "--------------------------------------
 echo "Author : Mr.T1T4N
 echo "Team : Mafia Teknologi

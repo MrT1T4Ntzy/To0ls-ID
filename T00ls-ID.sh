@@ -27,27 +27,28 @@ then
   cd cchek
   sh cchek.sh
 # data menu 2
-if [ $pilih = '2' ]
+elif [ $pilih = '2' ]
 then
   git clone https://github.com/Mr-X-junior/Virtex
   cd Virtex
   python virtex.py
 # data menu 3
-if [ $pilih = '3' ]
+elif [ $pilih = '3' ]
 then
   git clone https://github.com/MrVirusSpm-07/juz-amma
   cd juz-amma
   sh amma.sh
 # data menu 4
-if [ $pilih = '4' ]
+elif [ $pilih = '4' ]
 then
   git clone https://github.com/4L13199/LITESCRIPT
   cd LITESCRIPT
   python2 LITESCRIPT.py
 fi
 # data menu 5
-if [ $pilih = '99' ] 
+elif [ $pilih = '99' ] 
 then
-   echo "TERIMAKASIH TELAH MENGGUNAKAN TOOLS INI YA SOBBB"
-   echo "DAN SUBCRIBE CHANNEL : T1T4N TZY"
+   figlet Terima | lolcat
+   figlet Kasih | lolcat
+   date | date
    exit

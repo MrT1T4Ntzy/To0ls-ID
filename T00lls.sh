@@ -53,5 +53,4 @@ then
    date | date
    exit
 fi
-
 done

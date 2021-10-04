@@ -4,11 +4,11 @@ figlet Tools | lolcat
 figlet Termux | lolcat
 date | lolcat
 echo
-echo "======================================"
+echo "--------------------------------------
 echo "Author : Mr.T1T4N
-echo "Team : Mafia Teknologi"
-echo "======================================"
-echo "{!} SILAKAN PILIH SEMUA TOOLSNYA DI BAWAH INI :)"
+echo "Team : Mafia Teknologi
+echo -----------------------------------------"
+echo "{!} SILAKAN PILIH SEMUA TOOLSNYA DI BAWAH INI"
 echo "GUNAKAN SECUKUPNYA"
    sleep 2
 echo "{1} Hack CCTV [MAIN]"

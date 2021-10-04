@@ -51,4 +51,4 @@ then
    figlet Terima | lolcat
    figlet Kasih | lolcat
    date | date
-   exit
+exit

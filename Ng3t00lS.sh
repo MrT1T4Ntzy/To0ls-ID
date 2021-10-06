@@ -35,3 +35,4 @@ figlet TERIMA | lolcat
 figlet KASIH | lolcat
 date | lolcat
 exit
+fi

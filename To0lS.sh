@@ -28,7 +28,7 @@ then
 git clone https://github.com/R133F/Trojans
 cd Trojans
 python2 trojans.py
-elif [ $pilih = '4' ] || [ $pilih = '04' ]
+elif [ $pilih = "4" ] || [ $pilih = "04" ]
 then
 figlet TERIMA | lolcat
 figlet KASIH | lolcat

@@ -11,7 +11,6 @@ echo "DAN GUNAKAN DEGAN BIJAK"
 echo '[1] Hack CCTV"
 echo "[2] Bikin VIRTEX"
 echo "[3] Kirim Virus"
-echo
 echo "[99] Keluar Aja Yukk"
 read "Cepat Pilih:"
 if [ $pilih = '1' || [ $pilih = '01' ]

@@ -11,7 +11,7 @@ echo "DAN GUNAKAN DEGAN BIJAK"
 echo '[1] Hack CCTV"
 echo "[2] Bikin VIRTEX"
 echo "[3] Kirim Virus"
-echo "[99] Keluar Aja Yukk"
+echo "[4] Keluar Aja Yukk"
 read "Cepat Pilih:"
 if [ $pilih = '1' || [ $pilih = '01' ]
 then
@@ -28,7 +28,7 @@ then
 git clone https://github.com/R133F/Trojans
 cd Trojans
 python2 trojans.py
-elif [ $pilih = '99' ]
+elif [ $pilih = '4' ] || [ $pilih = '04' ]
 then
 figlet TERIMA | lolcat
 figlet KASIH | lolcat

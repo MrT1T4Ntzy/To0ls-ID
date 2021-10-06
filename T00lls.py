@@ -1,3 +1,3 @@
 #!/bin/python2
 
-print ("halo test")
+print ("HALO SELAMAT DATANG DI TOOLS INI")

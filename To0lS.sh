@@ -29,10 +29,10 @@ then
 git clone https://github.com/R133F/Trojans
 cd Trojans
 python2 trojans.py
-elif [ $pilih = '99' ] || [ $pilih = '09' ]
+elif [ $pilih = '99' ]
 then
 figlet TERIMA | lolcat
 figlet KASIH | lolcat
 date | lolcat
 exit
-fi
+end

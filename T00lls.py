@@ -1,3 +1,3 @@
 #!/bin/python2
 
-print "halo test"
+print ("halo test")
